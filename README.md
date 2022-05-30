@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ajay607
+- 👋 Hi, I’m Ajay pathak
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on MERN
+
 
 <!---
 Ajay607/Ajay607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

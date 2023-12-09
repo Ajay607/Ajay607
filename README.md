@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ajay pathak
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on MERN
+- 💞️ I’m looking to collaborate on Reactjs
+  
 
 
 <!---
